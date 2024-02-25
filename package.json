@@ -1,0 +1,10 @@
+{
+  "name": "em-sdk",
+  "version": "24.0.11",
+  "dependencies": {
+    "gcc-arm": "https://storage.googleapis.com/npm.openem.org/gcc-arm-10.3.1.tgz",
+    "srecord": "https://storage.googleapis.com/npm.openem.org/srecord-1.65.0.tgz",
+    "segger-arm": "https://storage.googleapis.com/npm.openem.org/segger-arm-6.30.0.tgz",
+    "ti-uniflash": "https://storage.googleapis.com/npm.openem.org/ti-uniflash-8.5.0.tgz"
+  }
+}
